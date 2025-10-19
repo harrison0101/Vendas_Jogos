@@ -1,4 +1,4 @@
-![question-block (1)](https://github.com/user-attachments/assets/f3bfe911-b646-41e3-801d-9ef79ee84928)# Vendas_Jogos
+# Vendas_Jogos
 Vendas de jogos por região
 
 Projeto com foco em entender o comportamento das vendas de jogos, aplicando **Python** (Pandas, Matplotlib, Seaborn e SQLite).
@@ -13,7 +13,7 @@ Situação-problema:
 Uma empresa desenvolvedora de jogos deseja entender quais tipos de jogos vendem melhor, em quais plataformas e em quais regiões do mundo.
 Com base nisso, ela quer planejar seu próximo grande lançamento de forma mais estratégica.
 
-**Perguntas de pesquisa:** 
+**Perguntas de pesquisa:**
 
 
 **Quais gêneros de jogos tiveram maior volume de vendas globais?**
